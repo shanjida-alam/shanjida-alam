@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanjida-alam&label=Profile%20views&color=0e75b6&style=flat" alt="shanjida-alam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanjida-alam" alt="shanjida-alam" /></a> </p>
-
 - 🌱 I’m currently learning **Python, Django and Natural Language Processing**
 
 - 👯 I’m looking to collaborate on [shongkhar-pyramid](https://github.com/sajjad-h/shongkhar-pyramid)
@@ -17,9 +15,11 @@
 
 - 📄 Know about my experiences [https://shanjida-alam.github.io/resume/](https://shanjida-alam.github.io/resume/)
 
+- ⚡ Fun fact **I think I'm Curiosity Enthusiast**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shanjida-alam-541833204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanjida-alam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shanjida-alam-541833204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanjida-alam-541833204" height="30" width="40" /></a>
 <a href="https://fb.com/shanjida.alam.756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shanjida.alam.756" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shanjida_29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shanjida_29" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shanjida_alam353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shanjida_alam353" height="30" width="40" /></a>
