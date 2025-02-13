@@ -9,7 +9,7 @@ I am Shanjida Alam, a passionate problem solver with a deep love for reading and
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanjida-alam&label=Profile%20views&color=0e75b6&style=flat" alt="shanjida-alam" /> </p>
 
-- 🌱 I’m currently learning **Python, Django, and Natural Language Processing**
+- 🌱 I’m currently learning **Machine Learning, Data Mining, Artificial Intelligence and Natural Language Processing**
 
 - 👯 I’m looking to collaborate on [shongkhar-pyramid](https://github.com/sajjad-h/shongkhar-pyramid)
 
