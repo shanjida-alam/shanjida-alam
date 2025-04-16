@@ -4,7 +4,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-I am Shanjida Alam, a passionate problem solver with a deep love for reading and exploring new research topics. Currently diving into the world of Python, Django, and Natural Language Processing, I am always eager to learn and grow. My journey in tech is driven by curiosity and a desire to innovate. I enjoy collaborating on interesting projects and sharing knowledge with the community.
+I am Shanjida Alam, a passionate problem solver with a deep love for reading and exploring new research topics. Currently diving into the world of Machine Learning,Artificial Intelligence and Natural Language Processing, I am always eager to learn and grow. My journey in tech is driven by curiosity and a desire to innovate. I enjoy collaborating on interesting projects and sharing knowledge with the community.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanjida-alam&label=Profile%20views&color=0e75b6&style=flat" alt="shanjida-alam" /> </p>
